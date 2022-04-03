@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "appService.deploySubpath": "target/globalsynctool.war",
+    "appService.defaultWebAppToDeploy": "None"
+}
