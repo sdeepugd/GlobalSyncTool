@@ -1,3 +1,8 @@
-TestingServlet.class
-com/evra/resource/SecondTestResource.class
-com/evra/resource/TestResource.class
+com/evra/fullbuild/data/FullBuildStatusData.class
+com/evra/fullbuild/database/DatabaseManager.class
+com/evra/fullbuild/SecondTestResource.class
+com/evra/fullbuild/data/FullBuildStatusData$BuildDeviceType.class
+com/evra/fullbuild/data/FullBuildStatusData$BuildConfiguration.class
+com/evra/fullbuild/FullBuildStatus.class
+com/evra/fullbuild/TestResource.class
+com/evra/fullbuild/data/FullBuildStatusData$BuildStatus.class

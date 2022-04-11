@@ -1,3 +1,5 @@
-/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/TestingServlet.java
-/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/resource/TestResource.java
-/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/resource/SecondTestResource.java
+/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/fullbuild/SecondTestResource.java
+/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/fullbuild/TestResource.java
+/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/fullbuild/database/DatabaseManager.java
+/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/fullbuild/data/FullBuildStatusData.java
+/Users/desriniv/Documents/Analysis/Java/Tomcat/GlobalSyncTool/GlobalSyncTool/globalsynctool/src/main/java/com/evra/fullbuild/FullBuildStatus.java
