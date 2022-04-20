@@ -1,8 +1,14 @@
-com/evra/fullbuild/data/FullBuildStatusData.class
 com/evra/fullbuild/database/DatabaseManager.class
+com/evra/fullbuild/database/PostgreSQLJDBC.class
+com/evra/fullbuild/data/FullBuildTaskData$BuildDeviceType.class
 com/evra/fullbuild/SecondTestResource.class
 com/evra/fullbuild/data/FullBuildStatusData$BuildDeviceType.class
+com/evra/fullbuild/FullBuildTaskQueue.class
 com/evra/fullbuild/data/FullBuildStatusData$BuildConfiguration.class
-com/evra/fullbuild/FullBuildStatus.class
+com/evra/fullbuild/data/FullBuildTaskData$BuildConfiguration.class
+com/evra/fullbuild/data/FullBuildTaskData.class
 com/evra/fullbuild/TestResource.class
 com/evra/fullbuild/data/FullBuildStatusData$BuildStatus.class
+com/evra/fullbuild/data/FullBuildStatusData.class
+com/evra/fullbuild/FullBuildStatus.class
+com/evra/fullbuild/data/FullBuildTaskData$TaskStatus.class
